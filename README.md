@@ -3,7 +3,7 @@
 
 #### Authors
 * Ihejiako Amarachi
-* Sola
+* Sola Paul
 
 #### The prototype of the _printf() function is:
 * int _printf(const char *format, ...);
